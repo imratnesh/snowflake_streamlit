@@ -103,6 +103,11 @@ snowflake_streamlit/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Connect with Me
+
+- LinkedIn: [Ratnesh Kushwaha](https://www.linkedin.com/in/ratneshkushwaha/)
+- YouTube: [India Analytica](https://www.youtube.com/@IndiaAnalytica)
+
 ## Acknowledgments
 
 - Data provided by HackerEarth and YourStory
