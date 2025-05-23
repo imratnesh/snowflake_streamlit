@@ -22,11 +22,11 @@ wheels/
 
 # Virtual Environment
 venv/
-env/
 ENV/
 
 # Environment Variables
 .env
+.env.*
 
 # IDE
 .idea/
@@ -42,6 +42,10 @@ ENV/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Project specific
+*.log
+*.sqlite3
 
 # Streamlit
 .streamlit/
